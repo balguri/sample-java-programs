@@ -31,7 +31,7 @@ public class AllocationsApplication implements SampleApplication {
             if (n % i == 0)
                 return false;
         }
-        return true;
+         return true;
     }
 
     @Override
